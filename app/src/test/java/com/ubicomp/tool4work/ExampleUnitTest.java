@@ -1,4 +1,4 @@
-package com.example.myfirstapp;
+package com.ubicomp.tool4work;
 
 import org.junit.Test;
 
