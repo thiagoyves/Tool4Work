@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Tool4Work</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="edit_message">Enter an event name</string>
+    <string name="arrival_time">Enter an arrival time</string>
+    <string name="leave_time">Enter an leave time</string>
+    <string name="button_send">Create</string>
 </resources>
